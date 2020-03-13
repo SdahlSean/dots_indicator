@@ -32,7 +32,7 @@ class DotsIndicator extends AnimatedWidget {
   DotsIndicator({
     this.controller,
     this.itemCount,
-    this.onPageSelected: (int index) {},
+    this.onPageSelected,
     this.color: Colors.white,
     this.dotSize: 4.0,
     this.selectionZoom: 2.0,
