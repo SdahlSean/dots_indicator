@@ -1,4 +1,4 @@
-library dots_indictor;
+library dots_indicator;
 
 import 'dart:math';
 import 'package:flutter/material.dart';
