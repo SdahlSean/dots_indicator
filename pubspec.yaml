@@ -1,0 +1,17 @@
+name: snapping_sheet
+description: A package that provides an indicator showing the currently selected page of a PageController
+version: 0.0.1
+homepage: https://github.com/SdahlSean/dots_indicator
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
