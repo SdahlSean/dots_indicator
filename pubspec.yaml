@@ -1,4 +1,4 @@
-name: snapping_sheet
+name: dots_indicator
 description: A package that provides an indicator showing the currently selected page of a PageController
 version: 0.0.1
 homepage: https://github.com/SdahlSean/dots_indicator
